@@ -1,0 +1,18 @@
+[package]
+name = "bencoders"
+version = "0.1.0"
+authors = ["Paul Lange <palango@gmx.de>"]
+
+description = "A fast parser for bencode."
+
+license = "MIT"
+readme = "README.md"
+
+homepage = "https://github.com/palango/bencoders"
+repository = "https://github.com/palango/bencoders"
+
+keywords = ["torrent", "bencode"]
+
+
+[dependencies]
+nom = "~0.3.0"
